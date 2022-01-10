@@ -1,0 +1,9 @@
+C:\Users\hilaa\source\repos\B181210015_1.ODEV_1A\B181210015_1.ODEV_1A\bin\Debug\B181210015_1.ODEV_1A.exe.config
+C:\Users\hilaa\source\repos\B181210015_1.ODEV_1A\B181210015_1.ODEV_1A\bin\Debug\B181210015_1.ODEV_1A.exe
+C:\Users\hilaa\source\repos\B181210015_1.ODEV_1A\B181210015_1.ODEV_1A\bin\Debug\B181210015_1.ODEV_1A.pdb
+C:\Users\hilaa\source\repos\B181210015_1.ODEV_1A\B181210015_1.ODEV_1A\obj\Debug\B181210015_1.ODEV_1A.csprojAssemblyReference.cache
+C:\Users\hilaa\source\repos\B181210015_1.ODEV_1A\B181210015_1.ODEV_1A\obj\Debug\B181210015_1.ODEV_1A.Properties.Resources.resources
+C:\Users\hilaa\source\repos\B181210015_1.ODEV_1A\B181210015_1.ODEV_1A\obj\Debug\B181210015_1.ODEV_1A.csproj.GenerateResource.cache
+C:\Users\hilaa\source\repos\B181210015_1.ODEV_1A\B181210015_1.ODEV_1A\obj\Debug\B181210015_1.ODEV_1A.csproj.CoreCompileInputs.cache
+C:\Users\hilaa\source\repos\B181210015_1.ODEV_1A\B181210015_1.ODEV_1A\obj\Debug\B181210015_1.ODEV_1A.exe
+C:\Users\hilaa\source\repos\B181210015_1.ODEV_1A\B181210015_1.ODEV_1A\obj\Debug\B181210015_1.ODEV_1A.pdb

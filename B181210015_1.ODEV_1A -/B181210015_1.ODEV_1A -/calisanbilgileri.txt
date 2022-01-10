@@ -1,0 +1,3 @@
+01234567890 Hilal Yildiz 20 5 Bekar Yok 0 2000 100 120 10 50 4000 D:\\indir.jpg
+12457896320 Harun Yildiz 35 5 Bekar Yok 0 2000 100 120 12 25 4500 D:\\Users\\hilaa\\OneDrive\\Masaüstü\\Yeni klasör\\indir.jpg
+02356897410 Ahmet Ronas 52 10 Evli Yok 0 2000 100 120 10 50 4000 C:\\indir.jpg
