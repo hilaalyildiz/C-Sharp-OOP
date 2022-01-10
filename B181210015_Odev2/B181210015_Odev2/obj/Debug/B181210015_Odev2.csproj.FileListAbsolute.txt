@@ -1,0 +1,7 @@
+C:\Users\hilaa\source\repos\B181210015_Odev2\B181210015_Odev2\obj\Debug\B181210015_Odev2.csprojAssemblyReference.cache
+C:\Users\hilaa\source\repos\B181210015_Odev2\B181210015_Odev2\obj\Debug\B181210015_Odev2.csproj.CoreCompileInputs.cache
+C:\Users\hilaa\source\repos\B181210015_Odev2\B181210015_Odev2\bin\Debug\B181210015_Odev2.exe.config
+C:\Users\hilaa\source\repos\B181210015_Odev2\B181210015_Odev2\bin\Debug\B181210015_Odev2.exe
+C:\Users\hilaa\source\repos\B181210015_Odev2\B181210015_Odev2\bin\Debug\B181210015_Odev2.pdb
+C:\Users\hilaa\source\repos\B181210015_Odev2\B181210015_Odev2\obj\Debug\B181210015_Odev2.exe
+C:\Users\hilaa\source\repos\B181210015_Odev2\B181210015_Odev2\obj\Debug\B181210015_Odev2.pdb
