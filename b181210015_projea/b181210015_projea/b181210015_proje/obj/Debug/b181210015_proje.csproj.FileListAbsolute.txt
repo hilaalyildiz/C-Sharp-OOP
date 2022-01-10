@@ -1,0 +1,10 @@
+C:\Users\hilaa\source\repos\b181210015_proje\b181210015_proje\bin\Debug\b181210015_proje.exe.config
+C:\Users\hilaa\source\repos\b181210015_proje\b181210015_proje\bin\Debug\b181210015_proje.exe
+C:\Users\hilaa\source\repos\b181210015_proje\b181210015_proje\bin\Debug\b181210015_proje.pdb
+C:\Users\hilaa\source\repos\b181210015_proje\b181210015_proje\obj\Debug\b181210015_proje.csprojAssemblyReference.cache
+C:\Users\hilaa\source\repos\b181210015_proje\b181210015_proje\obj\Debug\b181210015_proje.Properties.Resources.resources
+C:\Users\hilaa\source\repos\b181210015_proje\b181210015_proje\obj\Debug\b181210015_proje.csproj.GenerateResource.cache
+C:\Users\hilaa\source\repos\b181210015_proje\b181210015_proje\obj\Debug\b181210015_proje.csproj.CoreCompileInputs.cache
+C:\Users\hilaa\source\repos\b181210015_proje\b181210015_proje\obj\Debug\b181210015_proje.exe
+C:\Users\hilaa\source\repos\b181210015_proje\b181210015_proje\obj\Debug\b181210015_proje.pdb
+C:\Users\hilaa\source\repos\b181210015_proje\b181210015_proje\obj\Debug\b181210015_proje.Form_HayvanCiftligi.resources
